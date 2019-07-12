@@ -79,7 +79,7 @@ java lexer.Lexer.java [test file location]
 No assumptions were made for this project
 
 ### Implementation Discussion
-<br />
+-<br />
 ### Implementation Decisions
 There were many decisions made during the implementation of this program. These decisions were
 made to make the code readable, and as efficient as I could. One decision I made was to use printf to
